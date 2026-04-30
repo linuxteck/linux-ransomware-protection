@@ -30,7 +30,7 @@ If you act on just these:
 
 > Linux security layers protecting against ransomware
 
-![Preview](https://raw.githubusercontent.com/linuxteck/linux-security/main/security-preview.png)
+![Preview](https://github.com/linuxteck/linux-ransomware-protection/blob/main/Ransomeware.png)
 
 ---
 
